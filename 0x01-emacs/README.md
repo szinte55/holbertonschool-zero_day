@@ -1,1 +1,1 @@
-reasdf
+Emacs is a powerful text editor that is used in the Linux terminal It allows you , giving you the power to manipulate documents quickly and efficiently. You can easily move through and edit paragraphs, sentences, words, and logical blocks.
